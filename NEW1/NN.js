@@ -11,5 +11,3 @@ const closeModalButton = document.getElementById('closeModalButton');
 const asyncTaskButton = document.getElementById('startAsyncTask');
 const asyncHistory = document.getElementById('asyncHistory');
 const asyncTaskEntries = new Map();
-
-
