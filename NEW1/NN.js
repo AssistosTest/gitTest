@@ -12,11 +12,7 @@ const asyncTaskButton = document.getElementById('startAsyncTask');
 const asyncHistory = document.getElementById('asyncHistory');
 const asyncTaskEntries = new Map();
 
-const STATUS_TOOL = 'status';
-const SIMULATION_TOOL = 'run_simulation';
-const ASYNC_TASK_TOOL = 'demo_async_task';
-const demoClient = createAgentClient('/mcps/demo/mcp');
-const simulatorClient = createAgentClient('/mcps/simulator/mcp');
+
 
 iterationsInput.addEventListener('input', function () {
     iterationsDisplay.textContent = this.value;
