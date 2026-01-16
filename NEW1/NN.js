@@ -13,39 +13,3 @@ const asyncHistory = document.getElementById('asyncHistory');
 const asyncTaskEntries = new Map();
 
 
-
-iterationsInput.addEventListener('input', function () {
-    iterationsDisplay.textContent = this.value;
-});
-
-function extractTextFromResult(result) {
-    const content = Array.isArray(result?.content) ? result.content : [];
-    const textBlock = content.find(item => item?.type === 'text' && typeof item.text === 'string');
-    return textBlock ? textBlock.text : '';
-}
-
-
-
-function escapeHtml(value) {
-    return String(value)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#39;');
-}
-
-function showResult(html) {
-    resultContent.innerHTML = html;
-    modal.classList.add('active');
-}
-
-function closeModal() {
-    modal.classList.remove('active');
-
-
-document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') {
-        closeModal();
-    }
-});
