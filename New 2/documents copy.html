@@ -18,22 +18,7 @@
                     <p>When a Markdown file is loaded, it is transformed into a rich, in-memory representation. This process, known as <strong>hydration</strong>, is handled by the <code>DocumentStore</code> service. The <code>hydrateDocumentModel</code> function enriches the document with metadata, comments, references, and other structured data, creating a hierarchical model that the UI components can interact with.</p>
                     <p><strong>Example:</strong> A file with <code>&lt;!--{"achiles-ide-document": {"id": "guide", "title": "My Guide"}}--&gt;</code> and chapter/paragraph comments is hydrated into a document with <code>docId = "guide"</code>, chapters built from comments or headings, and paragraph records carrying <code>text</code> and <code>commands</code>.</p>
                     <h3>Full document example</h3>
-<
-&lt;!-- {"achiles-ide-paragraph":{"id":"paragraph-2","type":"markdown","commands":"@test_var := test_value\n","comments":{"status":"ok","plugin":"edit-variables","pluginLastOpened":"edit-variables"},"title":"Paragraph 2"}} --&gt;
-This second paragraph can have its own set of comments, references,
 
-&lt;!-- {"achiles-ide-chapter":{"id":"chapter-2","title":"Advanced Features","comments":{"collapsed":true},"anchorId":"references-section"}} --&gt;
-&lt;a id="references-section"&gt;&lt;/a&gt;
-## Advanced Features
-&lt;!-- {"achiles-ide-paragraph":{"id":"paragraph-3","type":"markdown","title":"SOPLang Commands"}} --&gt;
-This paragraph demonstrates an embedded SOPLang command for media. While it appears as a command here, the IDE will render it as a rich media element.
-
-&lt;!-- {"achiles-ide-paragraph":{"id":"paragraph-4","type":"markdown","comments":{"status":"ok","plugin":"edit-variables","pluginLastOpened":"edit-variables"},"title":"Another Paragraph"}} --&gt;
-This paragraph contains a command that will be parsed by the system.
-
-
-&lt;!-- &lt;achiles-ide-references&gt; --&gt;
-&lt;a id="references-section"&gt;&lt;/a&gt;
 ## References
 1. Smith, J. R., & Doe, A. B. (2024). The Evolving Role of Machine Learning in Predictive Modeling.. International Journal of Technological Res
 </code></pre>
