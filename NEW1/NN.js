@@ -4,8 +4,7 @@ const iterationsInput = document.getElementById('iterations');
 const iterationsDisplay = document.getElementById('iterationsDisplay');
 const loadingDiv = document.getElementById('loading');
 const runButton = document.getElementById('runSimulation');
-const selfCallButton = document.getElementById('selfCall');
-const modal = document.getElementById('resultModal');
+
 const resultContent = document.getElementById('resultContent');
 const closeModalButton = document.getElementById('closeModalButton');
 const asyncTaskButton = document.getElementById('startAsyncTask');
