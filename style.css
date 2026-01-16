@@ -4,25 +4,13 @@
   /* Light theme colors (default) */
   --bg-primary: #ffffff;
   --bg-secondary: #f0f2f5;
-  --bg-tertiary: #e9ebee;
+  --bg-tertiary: #00a884;
   --bg-header: #00a884;
   --bg-header-dark: #008069;
   --bg-code: #f4f4f5;
   --bg-hover: #f5f6f6;
   --bg-active: #e9ebee;
   
-  --text-primary: #111b21;
-  --text-secondary: #667781;
-  --text-tertiary: #8696a0;
-  --text-header: #ffffff;
-  --text-link: #00a884;
-  --text-code: #d73502;
-  
-  --border-primary: #e9edef;
-  --border-secondary: #d1d7db;
-  --shadow-sm: 0 1px 2px rgba(0,0,0,0.08);
-  --shadow-md: 0 2px 8px rgba(0,0,0,0.12);
-  --shadow-lg: 0 4px 16px rgba(0,0,0,0.16);
   
   --accent-green: #25d366;
   --accent-blue: #34b7f1;
