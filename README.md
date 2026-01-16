@@ -12,6 +12,6 @@
 
 
 >>>>>>> Stashed changes
-chapter new
+chapter new new new
 >>>>>>>
 >>>>>>> 
