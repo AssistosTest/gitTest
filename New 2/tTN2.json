@@ -2,11 +2,7 @@
   "rootDir": "/explorer/web-components",
   "components": [
    
-    {
-      "name": "file-editor",
-      "type": "components",
-      "presenterClassName": "FileEditor"
-    },
+    
     {
       "name": "document-view-page",
       "type": "components",
