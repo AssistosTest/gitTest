@@ -1,0 +1,23 @@
+{
+  "rootDir": "/explorer/web-components",
+  "components": [
+    {
+      "name": "file-exp",
+      "type": "pages",
+      "presenterClassName": "FileExp"
+    },
+    {
+      "name": "file-editor",
+      "type": "components",
+      "presenterClassName": "FileEditor"
+    },
+    {
+      "name": "document-view-page",
+      "type": "components",
+      "presenterClassName": "DocumentViewPage"
+    },
+    {
+      "name": "chapter-item",
+      "type": "components",
+      "presenterClassName": "ChapterItem"
+    }
