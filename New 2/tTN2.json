@@ -1,11 +1,7 @@
 {
   "rootDir": "/explorer/web-components",
   "components": [
-    {
-      "name": "file-exp",
-      "type": "pages",
-      "presenterClassName": "FileExp"
-    },
+   
     {
       "name": "file-editor",
       "type": "components",
