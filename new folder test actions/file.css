@@ -40,28 +40,7 @@
   --border-secondary: #3b4a54;
 }
 
-[data-theme="blue"] {
-    /* Blue theme colors */
-    --bg-primary: #f0f8ff; /* AliceBlue */
-    --bg-secondary: #e6f2ff;
-    --bg-tertiary: #d1e7ff;
-    --bg-header: #007bff;
-    --bg-header-dark: #0056b3;
-    --bg-code: #eef7ff;
-    --bg-hover: #dbeeff;
-    --bg-active: #cce4ff;
 
-    --text-primary: #212529;
-    --text-secondary: #495057;
-    --text-tertiary: #6c757d;
-    --text-header: #ffffff;
-    --text-link: #0056b3;
-    --text-code: #c53c00;
-
-    --border-primary: #dee2e6;
-    --border-secondary: #ced4da;
-    --accent-blue: #007bff;
-}
 
 
 /* Base styles */
