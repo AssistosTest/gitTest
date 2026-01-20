@@ -32,16 +32,7 @@
   padding: 0 20px;
 }
 
-/* Header */
-header {
-  background: linear-gradient(135deg, var(--bg-header) 0%, var(--bg-header-dark) 100%);
-  color: var(--text-header);
-  padding: 1.5rem 0;
-  box-shadow: var(--shadow-md);
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-}
+
 
 .header-content {
   display: flex;
