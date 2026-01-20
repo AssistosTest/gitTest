@@ -1,4 +1,4 @@
-<!-- {"achiles-ide-document":{"id":"Ly5wbG9pbmt5L3JlcG9zL3Rlc3RSZXBvL1JFQURNRS5tZA==","title":"README","infoText":"bvfn cghmv.  cghmv. hgmvjm vb b","version":1,"updatedAt":"2026-01-20T07:36:02.889Z"}} -->
+<!-- {"achiles-ide-document":{"id":"Ly5wbG9pbmt5L3JlcG9zL3Rlc3RSZXBvL1JFQURNRS5tZA==","title":"README","infoText":"bvfn cghmv.  cghmv. hgmvjm vb b","version":1,"updatedAt":"2026-01-20T08:29:24.699Z"}} -->
 # gitTest
 
 <!-- {"achiles-ide-chapter":{"id":"chapter-1595c710-41f2-4426-810f-aedbfc1bc808","title":"New Chapter","anchorId":"chapter-chapter-1595c710-41f2-4426-810f-aedbfc1bc808"}} -->
@@ -30,9 +30,15 @@ test nou autocommit
 <!-- {"achiles-ide-paragraph":{"id":"paragraph-f95dae79-0861-4762-a4c6-c927ed5570a2","type":"markdown","title":"Paragraph 1"}} -->
 
 
+<!-- {"achiles-ide-chapter":{"id":"chapter-803fc17e-76f3-4248-bd41-e47a73eb6c70","title":"New Chapter","anchorId":"chapter-chapter-803fc17e-76f3-4248-bd41-e47a73eb6c70"}} -->
+<a id="chapter-chapter-803fc17e-76f3-4248-bd41-e47a73eb6c70"></a>
+## New Chapter
+<!-- {"achiles-ide-paragraph":{"id":"paragraph-7933e058-0016-4e7b-8f2c-dda7d582f3f0","type":"markdown","title":"Paragraph 1"}} -->
+
+
 <!-- {"achiles-ide-chapter":{"id":"chapter-5ba83aaf-0664-40a7-bc1d-51f113d39d06","title":"New Chapter","anchorId":"chapter-chapter-5ba83aaf-0664-40a7-bc1d-51f113d39d06"}} -->
 <a id="chapter-chapter-5ba83aaf-0664-40a7-bc1d-51f113d39d06"></a>
-## Chapter 1
+## New Chapter
 <!-- {"achiles-ide-paragraph":{"id":"paragraph-fddc0a1b-3949-4628-b73b-932db5da9739","type":"markdown","title":"Paragraph 1"}} -->
 >>>>>>> Stashed changes
 
