@@ -31,17 +31,6 @@
 
 
 
-
-/* Navigation */
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 nav a {
   color: var(--text-header);
   text-decoration: none;
