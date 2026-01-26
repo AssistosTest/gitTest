@@ -49,31 +49,8 @@
                             <strong>Structured Document Parsing:</strong> For each discovered Markdown file, <code>parseDocsFromMarkdown(content, filePath)</code> extracts structured metadata. This function looks for special HTML-like comments embedded directly within the Markdown content. These comments define the document's structure, including documents, chapters, and paragraphs, along with their associated metadata and SOPLang commands.
                             <h4>Example Markdown Comments:</h4>
                             <pre><code>&lt;!--{"achiles-ide-document": {"id": "my-document", "title": "My Awesome Document", "commands": "doc-level-command"}}--&gt;
-# My Document Title
 
-&lt;!--{"achiles-ide-chapter": {"title": "Introduction", "commands": "chapter-level-command"}}--&gt;
-## Introduction
 
-This is an introductory paragraph.
-
-&lt;!--{"achiles-ide-paragraph": {"text": "This is a special paragraph.", "commands": "@media_image_123 attach id \"some-blob-id\" name \"my-image.png\""}}--&gt;
-This paragraph might have embedded commands.
-</code></pre>
-                        </li>
-                        <li>
-                            <strong>Document Store Synchronization:</strong> The extracted document structures are then used to create or update entries in the IDE's internal document store. This involves interacting with the <code>Documents</code> SOPLang plugin to ensure data consistency.
-                        </li>
-                        <li>
-                            <strong>Finalization:</strong> After processing all Markdown files, <code>workspace.forceSave()</code> persists any changes, and <code>workspace.buildAll()</code> triggers a comprehensive build of the entire workspace, integrating all updates.
-                        </li>
-                    </ol>
-                </div>
-
-                <div class="doc-section" id="soplang-agent-interaction">
-                    <h2>SOPLang Agent Interaction</h2>
-                    <p>The <code>buildFromMarkdown</code> function is invoked through the <code>soplangAgent</code> (repo <code>SOPLangBuilder</code>) using its MCP tool <code>soplang-tool</code> defined in <code>soplangAgent/mcp-config.json</code>. Payload fields: <code>pluginName</code> (string), <code>methodName</code> (string), <code>params</code> (array, optional).</p>
-                    <p>Setup steps from workspace root:</p>
-                   
                 </div>
             </div>
         </div>
