@@ -17,10 +17,10 @@
     "proposedSolution": "22",
     "observations": "",
     "type": "bug",
-    "status": "done",
+    "status": "reopened",
     "priority": "high",
     "createdAt": "2026-01-26T14:24:39.827Z",
-    "updatedAt": "2026-01-26T14:24:47.303Z",
+    "updatedAt": "2026-01-26T14:25:45.178Z",
     "updatedBy": "local@example.com"
   }
 ]
