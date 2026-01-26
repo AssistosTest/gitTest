@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tsk_20260126081318_swd7",
+    "description": "a",
+    "proposedSolution": "b",
+    "observations": "c",
+    "type": "bug",
+    "status": "rejected",
+    "priority": "high",
+    "createdAt": "2026-01-26T08:13:18.597Z",
+    "updatedAt": "2026-01-26T08:13:51.004Z",
+    "updatedBy": "local@example.com"
+  }
+]
