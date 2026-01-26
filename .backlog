@@ -17,10 +17,10 @@
     "proposedSolution": ".lmnv c vbnm",
     "observations": ";lkjhbgvcvgbhnjkl;'\\",
     "type": "bug",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-26T14:23:12.858Z",
-    "updatedAt": "2026-01-26T14:23:12.858Z",
+    "updatedAt": "2026-01-26T14:23:19.748Z",
     "updatedBy": "local@example.com"
   }
 ]
