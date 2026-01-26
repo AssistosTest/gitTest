@@ -1,14 +1,14 @@
 [
   {
     "id": "tsk_20260126081318_swd7",
-    "description": "a",
-    "proposedSolution": "b",
+    "description": "1",
+    "proposedSolution": "ghjhnbckghmn vh",
     "observations": "c",
     "type": "bug",
-    "status": "rejected",
+    "status": "reopened",
     "priority": "high",
     "createdAt": "2026-01-26T08:13:18.597Z",
-    "updatedAt": "2026-01-26T08:13:51.004Z",
+    "updatedAt": "2026-01-26T14:15:47.409Z",
     "updatedBy": "local@example.com"
   }
 ]
