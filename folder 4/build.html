@@ -73,12 +73,7 @@ This paragraph might have embedded commands.
                     <h2>SOPLang Agent Interaction</h2>
                     <p>The <code>buildFromMarkdown</code> function is invoked through the <code>soplangAgent</code> (repo <code>SOPLangBuilder</code>) using its MCP tool <code>soplang-tool</code> defined in <code>soplangAgent/mcp-config.json</code>. Payload fields: <code>pluginName</code> (string), <code>methodName</code> (string), <code>params</code> (array, optional).</p>
                     <p>Setup steps from workspace root:</p>
-                    <ol>
-                        <li><code>p-cli enable repo SOPLangBuilder</code></li>
-                        <li><code>p-cli enable agent SOPLangBuilder/soplangAgent global</code></li>
-                        <li>Start the agent per <a href="https://ploinky.com/cli-reference.html" target="_blank" rel="noopener noreferrer">Ploinky</a> CLI (e.g., <code>p-cli start soplangAgent</code> if not already running).</li>
-                        <li>Call MCP tool <code>soplang-tool</code> with <code>pluginName: "SoplangBuilder"</code> and <code>methodName: "buildFromMarkdown"</code> (add <code>params</code> array if needed). Results and plugin console output are written to <code>SOPLangBuilder/last-tool.log</code>; persistence/log/audit paths are set in <code>soplangAgent/soplang-tool.sh</code>.</li>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
