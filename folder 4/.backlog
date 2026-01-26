@@ -5,10 +5,10 @@
     "proposedSolution": "22",
     "observations": "",
     "type": "bug",
-    "status": "new",
+    "status": "rejected",
     "priority": "low",
     "createdAt": "2026-01-26T14:16:43.965Z",
-    "updatedAt": "2026-01-26T14:22:05.487Z",
+    "updatedAt": "2026-01-26T14:22:14.094Z",
     "updatedBy": "local@example.com"
   }
 ]
