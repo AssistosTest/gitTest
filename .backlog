@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "tsk_20260126142404_sqzb",
+    "description": "1",
+    "proposedSolution": "11",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-26T14:24:04.362Z",
+    "updatedAt": "2026-01-26T14:24:04.362Z",
+    "updatedBy": "local@example.com"
+  }
+]
