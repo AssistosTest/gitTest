@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "tsk_20260127125812_zot3",
+    "description": "sdfsg",
+    "proposedSolution": "dfgdfgdfg",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T12:58:12.160Z",
+    "updatedAt": "2026-01-27T12:58:12.160Z",
+    "updatedBy": "local@example.com"
+  }
+]
