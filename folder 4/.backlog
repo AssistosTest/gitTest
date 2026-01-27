@@ -29,10 +29,10 @@
     "proposedSolution": "33",
     "observations": "34ertykl/:",
     "type": "bug",
-    "status": "new",
+    "status": "rejected",
     "priority": "medium",
     "createdAt": "2026-01-27T07:30:33.641Z",
-    "updatedAt": "2026-01-27T07:30:33.641Z",
+    "updatedAt": "2026-01-27T07:30:40.471Z",
     "updatedBy": "local@example.com"
   }
 ]
