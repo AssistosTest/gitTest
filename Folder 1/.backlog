@@ -2,13 +2,13 @@
   {
     "id": "tsk_20260127080951_3xz8",
     "description": "fgh",
-    "proposedSolution": "dvfbgnh",
+    "proposedSolution": "dvfbgnh c n",
     "observations": "vbng",
     "type": "bug",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-27T08:09:51.353Z",
-    "updatedAt": "2026-01-27T08:09:51.353Z",
+    "updatedAt": "2026-01-27T08:09:59.977Z",
     "updatedBy": "local@example.com"
   }
 ]
