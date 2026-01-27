@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "tsk_20260127080951_3xz8",
+    "description": "fgh",
+    "proposedSolution": "dvfbgnh",
+    "observations": "vbng",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T08:09:51.353Z",
+    "updatedAt": "2026-01-27T08:09:51.353Z",
+    "updatedBy": "local@example.com"
+  }
+]
