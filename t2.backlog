@@ -1,14 +1,14 @@
 [
   {
     "id": "tsk_20260127125905_bro3",
-    "description": "t2 asdfse xxxx",
-    "proposedSolution": "t2 sdfsgsfg ccccc",
+    "description": "t2 asdfse 23423",
+    "proposedSolution": "t2 sdfsgsfg 2354235423",
     "observations": "",
     "type": "bug",
     "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-27T12:59:05.249Z",
-    "updatedAt": "2026-01-27T13:00:04.305Z",
+    "updatedAt": "2026-01-27T13:00:12.610Z",
     "updatedBy": "local@example.com"
   }
 ]
