@@ -1,17 +1,5 @@
 [
   {
-    "id": "tsk_20260126141643_k0p6",
-    "description": "2",
-    "proposedSolution": "22",
-    "observations": "",
-    "type": "bug",
-    "status": "done",
-    "priority": "high",
-    "createdAt": "2026-01-26T14:16:43.965Z",
-    "updatedAt": "2026-01-27T07:30:42.258Z",
-    "updatedBy": "local@example.com"
-  },
-  {
     "id": "tsk_20260127072649_x3ke",
     "description": "6",
     "proposedSolution": "xcsdvfghj",
