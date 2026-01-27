@@ -30,9 +30,9 @@
     "observations": "",
     "type": "change",
     "status": "new",
-    "priority": "urgent",
+    "priority": "medium",
     "createdAt": "2026-01-27T07:35:01.925Z",
-    "updatedAt": "2026-01-27T07:35:01.925Z",
+    "updatedAt": "2026-01-27T07:35:36.809Z",
     "updatedBy": "local@example.com"
   }
 ]
