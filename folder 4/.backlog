@@ -29,10 +29,10 @@
     "proposedSolution": "proposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\n\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution",
     "observations": "",
     "type": "change",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-27T07:35:01.925Z",
-    "updatedAt": "2026-01-27T07:35:36.809Z",
+    "updatedAt": "2026-01-27T07:35:41.171Z",
     "updatedBy": "local@example.com"
   }
 ]
