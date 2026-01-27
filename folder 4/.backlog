@@ -6,9 +6,9 @@
     "observations": "",
     "type": "bug",
     "status": "test-ready",
-    "priority": "low",
+    "priority": "high",
     "createdAt": "2026-01-26T14:16:43.965Z",
-    "updatedAt": "2026-01-27T07:30:18.227Z",
+    "updatedAt": "2026-01-27T07:30:37.683Z",
     "updatedBy": "local@example.com"
   },
   {
