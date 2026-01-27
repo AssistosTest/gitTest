@@ -17,10 +17,10 @@
     "proposedSolution": "22",
     "observations": "",
     "type": "bug",
-    "status": "reopened",
+    "status": "test-ready",
     "priority": "high",
     "createdAt": "2026-01-26T14:24:39.827Z",
-    "updatedAt": "2026-01-27T08:08:44.131Z",
+    "updatedAt": "2026-01-27T08:09:37.572Z",
     "updatedBy": "local@example.com"
   },
   {
