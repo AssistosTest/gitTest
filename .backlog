@@ -22,5 +22,17 @@
     "createdAt": "2026-01-26T14:24:39.827Z",
     "updatedAt": "2026-01-27T08:08:44.131Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260127080853_3jj3",
+    "description": "test1",
+    "proposedSolution": "hsdfdfhg",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T08:08:53.804Z",
+    "updatedAt": "2026-01-27T08:08:53.804Z",
+    "updatedBy": "local@example.com"
   }
 ]
