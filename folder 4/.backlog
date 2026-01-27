@@ -5,10 +5,10 @@
     "proposedSolution": "22",
     "observations": "",
     "type": "bug",
-    "status": "test-ready",
+    "status": "done",
     "priority": "high",
     "createdAt": "2026-01-26T14:16:43.965Z",
-    "updatedAt": "2026-01-27T07:30:37.683Z",
+    "updatedAt": "2026-01-27T07:30:42.258Z",
     "updatedBy": "local@example.com"
   },
   {
