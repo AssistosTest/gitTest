@@ -5,10 +5,10 @@
     "proposedSolution": "dvfbgnh c n",
     "observations": "vbng",
     "type": "bug",
-    "status": "reopened",
+    "status": "test-ready",
     "priority": "medium",
     "createdAt": "2026-01-27T08:09:51.353Z",
-    "updatedAt": "2026-01-27T08:34:28.804Z",
+    "updatedAt": "2026-01-27T08:34:32.018Z",
     "updatedBy": "local@example.com"
   }
 ]
