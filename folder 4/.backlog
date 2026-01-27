@@ -6,9 +6,9 @@
     "observations": "z`xcvbnm",
     "type": "bug",
     "status": "done",
-    "priority": "high",
+    "priority": "medium",
     "createdAt": "2026-01-27T07:26:49.867Z",
-    "updatedAt": "2026-01-27T07:33:28.722Z",
+    "updatedAt": "2026-01-27T07:33:34.188Z",
     "updatedBy": "local@example.com"
   },
   {
