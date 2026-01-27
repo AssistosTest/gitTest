@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tsk_20260127125905_bro3",
+    "description": "t2 asdfse",
+    "proposedSolution": "t2 sdfsgsfg",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T12:59:05.249Z",
+    "updatedAt": "2026-01-27T12:59:05.249Z",
+    "updatedBy": "local@example.com"
+  }
+]
