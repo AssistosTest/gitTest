@@ -53,22 +53,10 @@
     "proposedSolution": "priority status disable",
     "observations": "",
     "type": "bug",
-    "status": "approved",
-    "priority": "urgent",
-    "createdAt": "2026-01-28T09:33:18.400Z",
-    "updatedAt": "2026-01-28T09:33:27.068Z",
-    "updatedBy": "local@example.com"
-  },
-  {
-    "id": "tsk_20260128093855_19c1",
-    "description": "zxcfvgbhnm",
-    "proposedSolution": "",
-    "observations": "",
-    "type": "bug",
     "status": "reopened",
     "priority": "urgent",
-    "createdAt": "2026-01-28T09:38:55.640Z",
-    "updatedAt": "2026-01-28T09:40:01.908Z",
+    "createdAt": "2026-01-28T09:33:18.400Z",
+    "updatedAt": "2026-01-28T09:41:14.674Z",
     "updatedBy": "local@example.com"
   }
 ]
