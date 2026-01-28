@@ -41,10 +41,10 @@
     "proposedSolution": "cfgh",
     "observations": "zxdcfvgbh",
     "type": "change",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-28T09:15:28.405Z",
-    "updatedAt": "2026-01-28T09:15:28.405Z",
+    "updatedAt": "2026-01-28T09:15:54.279Z",
     "updatedBy": "local@example.com"
   }
 ]
