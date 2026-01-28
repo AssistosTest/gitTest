@@ -41,10 +41,10 @@
     "proposedSolution": "xcv",
     "observations": "c v",
     "type": "bug",
-    "status": "approved",
+    "status": "done",
     "priority": "medium",
     "createdAt": "2026-01-28T09:26:05.120Z",
-    "updatedAt": "2026-01-28T09:26:33.200Z",
+    "updatedAt": "2026-01-28T09:28:11.516Z",
     "updatedBy": "local@example.com"
   }
 ]
