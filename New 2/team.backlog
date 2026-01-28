@@ -10,5 +10,17 @@
     "createdAt": "2026-01-28T10:32:44.014Z",
     "updatedAt": "2026-01-28T10:32:44.014Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260128103351_5rw0",
+    "description": "Afișarea mesajului „No backlog found” atunci când lista de backlog-uri este goală\n\nDupă închiderea pop-up-ului de creare, actualizarea UI pentru a indica clar dacă backlog-ul a fost creat sau nu\n\nPosibilă adăugare de feedback vizual pentru starea curentă a backlog-urilor\n\nCriterii de acceptare\n\nMesajul „No backlog found” se afișează când nu există backlog-uri\n\nUI-ul indică clar starea backlog-ului după închiderea pop-up-ului\n\nNavigarea și maparea în interfață sunt intuitive pentru utilizator",
+    "proposedSolution": "Afișarea mesajului „No backlog found” atunci când lista de backlog-uri este goală\n\nDupă închiderea pop-up-ului de creare, actualizarea UI pentru a indica clar dacă backlog-ul a fost creat sau nu\n\nPosibilă adăugare de feedback vizual pentru starea curentă a backlog-urilor\n\nCriterii de acceptare\n\nMesajul „No backlog found” se afișează când nu există backlog-uri\n\nUI-ul indică clar starea backlog-ului după închiderea pop-up-ului\n\nNavigarea și maparea în interfață sunt intuitive pentru utilizator",
+    "observations": "Afișarea mesajului „No backlog found” atunci când lista de backlog-uri este goală\n\nDupă închiderea pop-up-ului de creare, actualizarea UI pentru a indica clar dacă backlog-ul a fost creat sau nu\n\nPosibilă adăugare de feedback vizual pentru starea curentă a backlog-urilor\n\nCriterii de acceptare\n\nMesajul „No backlog found” se afișează când nu există backlog-uri\n\nUI-ul indică clar starea backlog-ului după închiderea pop-up-ului\n\nNavigarea și maparea în interfață sunt intuitive pentru utilizator",
+    "type": "bug",
+    "status": "reopened",
+    "priority": "high",
+    "createdAt": "2026-01-28T10:33:51.480Z",
+    "updatedAt": "2026-01-28T10:33:51.480Z",
+    "updatedBy": "local@example.com"
   }
 ]
