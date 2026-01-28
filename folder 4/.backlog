@@ -42,9 +42,9 @@
     "observations": "c v",
     "type": "bug",
     "status": "done",
-    "priority": "medium",
+    "priority": "urgent",
     "createdAt": "2026-01-28T09:26:05.120Z",
-    "updatedAt": "2026-01-28T09:28:11.516Z",
+    "updatedAt": "2026-01-28T09:31:35.245Z",
     "updatedBy": "local@example.com"
   }
 ]
