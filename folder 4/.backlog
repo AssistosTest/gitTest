@@ -29,10 +29,10 @@
     "proposedSolution": "proposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\n\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution",
     "observations": "qwdefrghtyu",
     "type": "change",
-    "status": "done",
+    "status": "test-ready",
     "priority": "medium",
     "createdAt": "2026-01-27T07:35:01.925Z",
-    "updatedAt": "2026-01-28T09:25:54.053Z",
+    "updatedAt": "2026-01-28T09:26:24.448Z",
     "updatedBy": "local@example.com"
   },
   {
@@ -41,10 +41,10 @@
     "proposedSolution": "xcv",
     "observations": "c v",
     "type": "bug",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-28T09:26:05.120Z",
-    "updatedAt": "2026-01-28T09:26:05.120Z",
+    "updatedAt": "2026-01-28T09:26:33.200Z",
     "updatedBy": "local@example.com"
   }
 ]
