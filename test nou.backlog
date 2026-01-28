@@ -1,14 +1,14 @@
 [
   {
     "id": "tsk_20260128072434_jef6",
-    "description": "Test- When clicking the “Save” button on the user creation form, the application crashes and no error message is displayed. The entered data is not saved, and the user must reload the page.",
+    "description": "Test- When clicking the “Save” button on the user creation form, the application crashes and no error message is displayed. The entered data is not saved, and the user must reload the page. cv https://skills.axiologic.dev/explorer/index.html#file-exp/.ploinky/repos/testRepo/test%20nou.backlog",
     "proposedSolution": "test- Possible Root Cause:\nThe issue occurs due to missing validation for the “email” field, which triggers an unhandled exception on the backend.\n\nSolution:\n\nAdd input validation for the “email” field on both frontend and backend\n\nHandle backend exceptions properly\n\nDisplay a user-friendly error message\n\nRelated Tasks:\n\nImplement input validation\n\nAdd error logging\n\nPerform regression testing on the form\n\nAcceptance Criteria:\n\nThe form no longer crashes\n\nThe user receives clear feedback\n\nData is saved correctly",
     "observations": "The issue occurs only when the email field contains an invalid format\n\nNo error is logged in the frontend console\n\nBackend logs show an unhandled exception related to input validation\n\nThe issue is reproducible 100% of the time under the same conditions\n\nOther forms in the application are not affecte",
     "type": "bug",
-    "status": "test-ready",
+    "status": "done",
     "priority": "medium",
     "createdAt": "2026-01-28T07:24:34.878Z",
-    "updatedAt": "2026-01-28T08:37:59.572Z",
+    "updatedAt": "2026-01-28T09:10:56.868Z",
     "updatedBy": "local@example.com"
   },
   {
