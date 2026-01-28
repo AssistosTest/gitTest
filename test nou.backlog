@@ -6,9 +6,9 @@
     "observations": "The issue occurs only when the email field contains an invalid format\n\nNo error is logged in the frontend console\n\nBackend logs show an unhandled exception related to input validation\n\nThe issue is reproducible 100% of the time under the same conditions\n\nOther forms in the application are not affecte",
     "type": "bug",
     "status": "test-ready",
-    "priority": "high",
+    "priority": "medium",
     "createdAt": "2026-01-28T07:24:34.878Z",
-    "updatedAt": "2026-01-28T07:45:11.013Z",
+    "updatedAt": "2026-01-28T08:37:59.572Z",
     "updatedBy": "local@example.com"
   },
   {
