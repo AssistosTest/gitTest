@@ -5,10 +5,10 @@
     "proposedSolution": "test- Possible Root Cause:\nThe issue occurs due to missing validation for the “email” field, which triggers an unhandled exception on the backend.\n\nSolution:\n\nAdd input validation for the “email” field on both frontend and backend\n\nHandle backend exceptions properly\n\nDisplay a user-friendly error message\n\nRelated Tasks:\n\nImplement input validation\n\nAdd error logging\n\nPerform regression testing on the form\n\nAcceptance Criteria:\n\nThe form no longer crashes\n\nThe user receives clear feedback\n\nData is saved correctly",
     "observations": "The issue occurs only when the email field contains an invalid format\n\nNo error is logged in the frontend console\n\nBackend logs show an unhandled exception related to input validation\n\nThe issue is reproducible 100% of the time under the same conditions\n\nOther forms in the application are not affecte",
     "type": "bug",
-    "status": "new",
+    "status": "test-ready",
     "priority": "high",
     "createdAt": "2026-01-28T07:24:34.878Z",
-    "updatedAt": "2026-01-28T07:25:33.380Z",
+    "updatedAt": "2026-01-28T07:42:04.557Z",
     "updatedBy": "local@example.com"
   },
   {
@@ -18,9 +18,9 @@
     "observations": "",
     "type": "bug",
     "status": "new",
-    "priority": "medium",
+    "priority": "low",
     "createdAt": "2026-01-28T07:25:23.903Z",
-    "updatedAt": "2026-01-28T07:25:23.903Z",
+    "updatedAt": "2026-01-28T07:38:07.028Z",
     "updatedBy": "local@example.com"
   }
 ]
