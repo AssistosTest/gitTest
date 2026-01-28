@@ -34,5 +34,17 @@
     "createdAt": "2026-01-28T07:44:30.577Z",
     "updatedAt": "2026-01-28T07:44:30.577Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260128091528_100y",
+    "description": "change 1",
+    "proposedSolution": "cfgh",
+    "observations": "zxdcfvgbh",
+    "type": "change",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-28T09:15:28.405Z",
+    "updatedAt": "2026-01-28T09:15:28.405Z",
+    "updatedBy": "local@example.com"
   }
 ]
