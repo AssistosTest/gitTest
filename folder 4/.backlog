@@ -5,10 +5,10 @@
     "proposedSolution": "xcsdvfghj",
     "observations": "z`xcvbnm",
     "type": "bug",
-    "status": "reopened",
+    "status": "test-ready",
     "priority": "medium",
     "createdAt": "2026-01-27T07:26:49.867Z",
-    "updatedAt": "2026-01-27T07:33:36.052Z",
+    "updatedAt": "2026-01-28T09:26:16.111Z",
     "updatedBy": "local@example.com"
   },
   {
@@ -17,22 +17,34 @@
     "proposedSolution": "33",
     "observations": "34ertykl/:",
     "type": "bug",
-    "status": "reopened",
+    "status": "test-ready",
     "priority": "medium",
     "createdAt": "2026-01-27T07:30:33.641Z",
-    "updatedAt": "2026-01-27T07:30:44.335Z",
+    "updatedAt": "2026-01-28T09:26:13.695Z",
     "updatedBy": "local@example.com"
   },
   {
     "id": "tsk_20260127073501_bd6s",
     "description": "test test test test test test test test",
     "proposedSolution": "proposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\n\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution\nproposed solution  porposed solution, proposed solution",
-    "observations": "",
+    "observations": "qwdefrghtyu",
     "type": "change",
-    "status": "approved",
+    "status": "done",
     "priority": "medium",
     "createdAt": "2026-01-27T07:35:01.925Z",
-    "updatedAt": "2026-01-27T07:35:41.171Z",
+    "updatedAt": "2026-01-28T09:25:54.053Z",
+    "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260128092605_z3nf",
+    "description": "as",
+    "proposedSolution": "xcv",
+    "observations": "c v",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-28T09:26:05.120Z",
+    "updatedAt": "2026-01-28T09:26:05.120Z",
     "updatedBy": "local@example.com"
   }
 ]
