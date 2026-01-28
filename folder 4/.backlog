@@ -46,5 +46,17 @@
     "createdAt": "2026-01-28T09:26:05.120Z",
     "updatedAt": "2026-01-28T09:32:45.678Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260128093318_nkoe",
+    "description": "test approved button",
+    "proposedSolution": "priority status disable",
+    "observations": "",
+    "type": "bug",
+    "status": "approved",
+    "priority": "urgent",
+    "createdAt": "2026-01-28T09:33:18.400Z",
+    "updatedAt": "2026-01-28T09:33:27.068Z",
+    "updatedBy": "local@example.com"
   }
 ]
