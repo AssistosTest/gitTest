@@ -58,5 +58,17 @@
     "createdAt": "2026-01-28T09:33:18.400Z",
     "updatedAt": "2026-01-28T09:33:27.068Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260128093855_19c1",
+    "description": "zxcfvgbhnm",
+    "proposedSolution": "",
+    "observations": "",
+    "type": "bug",
+    "status": "test-ready",
+    "priority": "low",
+    "createdAt": "2026-01-28T09:38:55.640Z",
+    "updatedAt": "2026-01-28T09:39:15.766Z",
+    "updatedBy": "local@example.com"
   }
 ]
