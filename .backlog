@@ -14,13 +14,13 @@
   {
     "id": "tsk_20260126142439_gxgu",
     "description": "2",
-    "proposedSolution": "22",
-    "observations": "",
+    "proposedSolution": "223333",
+    "observations": "ddddd",
     "type": "bug",
     "status": "test-ready",
     "priority": "high",
     "createdAt": "2026-01-26T14:24:39.827Z",
-    "updatedAt": "2026-01-27T08:09:37.572Z",
+    "updatedAt": "2026-01-29T13:16:15.976Z",
     "updatedBy": "local@example.com"
   },
   {
