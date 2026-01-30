@@ -58,5 +58,29 @@
     "createdAt": "2026-01-28T09:33:18.400Z",
     "updatedAt": "2026-01-28T09:41:14.674Z",
     "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260130082346_mj5y",
+    "description": "task 1",
+    "proposedSolution": "cdvfb",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "low",
+    "createdAt": "2026-01-30T08:23:46.723Z",
+    "updatedAt": "2026-01-30T08:25:43.756Z",
+    "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260130082356_lvjp",
+    "description": "task 2",
+    "proposedSolution": "csvdbg",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-30T08:23:56.088Z",
+    "updatedAt": "2026-01-30T08:26:07.248Z",
+    "updatedBy": "local@example.com"
   }
 ]

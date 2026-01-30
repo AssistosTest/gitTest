@@ -5,10 +5,10 @@
     "proposedSolution": "vdf",
     "observations": "",
     "type": "bug",
-    "status": "new",
+    "status": "done",
     "priority": "medium",
     "createdAt": "2026-01-26T14:49:26.293Z",
-    "updatedAt": "2026-01-26T14:49:41.374Z",
+    "updatedAt": "2026-01-30T08:29:15.243Z",
     "updatedBy": "local@example.com"
   }
 ]
