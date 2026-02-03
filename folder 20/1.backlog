@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tsk_20260130083447_r47y",
+    "description": "vcx",
+    "proposedSolution": "xc b",
+    "observations": "b n",
+    "type": "bug",
+    "status": "test-ready",
+    "priority": "medium",
+    "createdAt": "2026-01-30T08:34:47.418Z",
+    "updatedAt": "2026-01-30T08:34:54.017Z",
+    "updatedBy": "local@example.com"
+  }
+]

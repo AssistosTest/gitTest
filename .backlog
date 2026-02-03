@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tsk_20260126142404_sqzb",
+    "description": "1",
+    "proposedSolution": "11",
+    "observations": "",
+    "type": "bug",
+    "status": "test-ready",
+    "priority": "medium",
+    "createdAt": "2026-01-26T14:24:04.362Z",
+    "updatedAt": "2026-01-27T08:09:21.012Z",
+    "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260126142439_gxgu",
+    "description": "2",
+    "proposedSolution": "223333",
+    "observations": "ddddd",
+    "type": "bug",
+    "status": "test-ready",
+    "priority": "high",
+    "createdAt": "2026-01-26T14:24:39.827Z",
+    "updatedAt": "2026-01-29T13:16:15.976Z",
+    "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260127080853_3jj3",
+    "description": "test1",
+    "proposedSolution": "hsdfdfhg",
+    "observations": "",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T08:08:53.804Z",
+    "updatedAt": "2026-01-27T08:08:53.804Z",
+    "updatedBy": "local@example.com"
+  }
+]
