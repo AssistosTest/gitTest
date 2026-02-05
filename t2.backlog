@@ -3,12 +3,24 @@
     "id": "tsk_20260127125905_bro3",
     "description": "t2 asdfse 23423",
     "proposedSolution": "t2 sdfsgsfg 2354235423",
-    "observations": "",
+    "observations": "12234bbbbaaaa",
     "type": "bug",
-    "status": "approved",
+    "status": "done",
     "priority": "medium",
     "createdAt": "2026-01-27T12:59:05.249Z",
-    "updatedAt": "2026-01-27T13:00:12.610Z",
+    "updatedAt": "2026-01-27T13:58:57.781Z",
+    "updatedBy": "local@example.com"
+  },
+  {
+    "id": "tsk_20260127140944_jnez",
+    "description": "cbbf",
+    "proposedSolution": "fghfgjgj",
+    "observations": "ghjhjgf",
+    "type": "bug",
+    "status": "new",
+    "priority": "medium",
+    "createdAt": "2026-01-27T14:09:44.775Z",
+    "updatedAt": "2026-01-27T14:09:44.775Z",
     "updatedBy": "local@example.com"
   }
 ]

@@ -2,13 +2,13 @@
   {
     "id": "tsk_20260127125812_zot3",
     "description": "sdfsg",
-    "proposedSolution": "dfgdfgdfg",
+    "proposedSolution": "dfgdfgdfg1111",
     "observations": "",
     "type": "bug",
-    "status": "new",
+    "status": "approved",
     "priority": "medium",
     "createdAt": "2026-01-27T12:58:12.160Z",
-    "updatedAt": "2026-01-27T12:58:12.160Z",
+    "updatedAt": "2026-01-27T20:00:10.953Z",
     "updatedBy": "local@example.com"
   }
 ]
