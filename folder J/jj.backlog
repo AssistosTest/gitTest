@@ -1,6 +1,6 @@
 [
   {
-    "description": "task 2- deseneaza 2 linii",
+    "description": "task 2- deseneaza 4 linii",
     "options": [],
     "resolution": "dcfvg"
   },
@@ -8,6 +8,11 @@
     "description": "task 1- deseneaza o linie",
     "options": [],
     "resolution": "x"
+  },
+  {
+    "description": "deseneaza 1 linie",
+    "options": [],
+    "resolution": "bgnmhj,"
   },
   {
     "description": "task 3- deseneaza 3 linii",
