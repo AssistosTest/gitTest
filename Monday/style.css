@@ -2,7 +2,7 @@
 
 :root {
   /* Light theme colors (default) */
-  --bg-primary: #ffffff;
+  --bg-primary: #ffffff 222;
   --bg-secondary: #f0f2f5;
   --bg-tertiary: #e9ebee;
   --bg-header: #00a884;

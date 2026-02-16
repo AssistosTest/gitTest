@@ -1,12 +1,12 @@
 [
   {
-    "description": "improve Home page2",
-    "options": [],
-    "resolution": "change design"
-  },
-  {
     "description": "change  page Settings",
     "options": [],
     "resolution": "add more setting options"
+  },
+  {
+    "description": "improve Home page2",
+    "options": [],
+    "resolution": "change design"
   }
 ]
