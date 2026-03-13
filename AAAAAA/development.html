@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Development - Explorer Agent</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="header-top">
+                    <a href="index.html" class="logo">
+                        <div class="logo-icon">🚀</div>
+                        <span>Explorer Agent</span>
+                    </a>
+                    <button class="theme-toggle" id="themeToggle">🌙</button>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="documents.html">Document Model &amp; Editing</a></li>
+                        <li><a href="architecture.html">Architecture</a></li>
+                        <li><a href="backend.html">Backend</a></li>
+                        <li><a href="plugins.html">Plugins</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="doc-section">
+                <h1>Development Quick Reference</h1>
+                <p>This page tracks practical setup and validation checks for the current Explorer implementation.</p>
+            </div>
+
+            <div class="doc-section">
+                <h2>Bootstrapping</h2>
+<pre><code>p-cli enable repo fileExplorer
+p-cli enable agent fileExplorer/explorer global
+export ASSISTOS_FS_ROOT=&lt;workspace-root&gt;
+p-cli start explorer 8080
+</code></pre>
+                <p>UI entrypoint: <code>http://127.0.0.1:8080/explorer/index.html</code></p>
+            </div>
+
+            <div class="doc-section">
+                <h2>Web Preview (HTML)</h2>
+                <p>HTML preview uses repo-scoped file URLs. Example:</p>
+<pre><code>/.ploinky/repos/fileExplorer/docs/development.html?__previewReload=1</code></pre>
+                <p>Required portability link (commit it):</p>
+<pre><code>explorer/.ploinky/repos/fileExplorer -&gt; ../../..</code></pre>
+                <p>Validation:</p>
+<pre><code>curl -I "http://127.0.0.1:8080/.ploinky/repos/fileExplorer/docs/development.html"
+# expected: HTTP/1.1 200
+</code></pre>
+            </div>
+
+            <div class="doc-section">
+                <h2>WebSkel Refactor Notes</h2>
+                <p>File Explorer UI is split into dedicated presenters/components:</p>
+                <ul>
+                    <li><code>file-exp</code>: host/orchestrator</li>
+                    <li><code>file-exp-entries</code>: entries renderer and actions</li>
+                    <li><code>file-exp-preview</code>: preview presenter bridge</li>
+                    <li><code>html-web-view</code>: iframe presenter for HTML preview pane</li>
+                </ul>
+                <p>Component registry source of truth: <code>explorer/webskel.json</code></p>
+            </div>
+
+            <div class="doc-section">
+                <h2>Useful Checks</h2>
+<pre><code># Unit tests
+cd explorer
+npm test
+
+# Spot-check static docs path
+curl -I "http://127.0.0.1:8080/.ploinky/repos/fileExplorer/docs/style.css"
+</code></pre>
+                <p>For full architecture/backend details, see <a href="architecture.html#development">Architecture &rarr; Development</a> and <a href="backend.html">Backend</a>.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 <a href="https://github.com/OutfinityResearch/ploinky/blob/master/README.md" target="_blank" rel="noopener noreferrer">Ploinky Project</a>. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Theme toggle
+        const themeToggle = document.getElementById('themeToggle');
+        const body = document.body;
+        const themes = ['light', 'dark', 'blue'];
+        const themeIcons = {
+            light: '🌙', // Icon to show for switching to dark
+            dark: '🔵',  // Icon to show for switching to blue
+            blue: '☀️'   // Icon to show for switching to light
+        };
+
+        const applyTheme = (theme) => {
+            body.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+            themeToggle.textContent = themeIcons[theme];
+        };
+        
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        applyTheme(savedTheme);
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = body.getAttribute('data-theme');
+            const currentIndex = themes.indexOf(currentTheme);
+            const nextIndex = (currentIndex + 1) % themes.length;
+            const newTheme = themes[nextIndex];
+            applyTheme(newTheme);
+        });
+    </script>
+</body>
+</html>
