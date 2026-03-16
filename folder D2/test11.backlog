@@ -3,5 +3,10 @@
     "description": "new task description",
     "options": [],
     "resolution": "vdfb"
+  },
+  {
+    "description": "task2",
+    "options": [],
+    "resolution": ""
   }
 ]
