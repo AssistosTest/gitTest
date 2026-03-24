@@ -1,0 +1,15 @@
+{
+  "rootDir": "/explorer/web-components",
+  "components": [
+   
+    
+    {
+      "name": "document-view-page",
+      "type": "components",
+      "presenterClassName": "DocumentViewPage"
+    },
+    {
+      "name": "chapter-item",
+      "type": "components",
+      "presenterClassName": "ChapterItem"
+    }
