@@ -1,4 +1,4 @@
-<!-- {"achilles-ide-document":{"id":"L2dpdFRlc3QvUkVBRE1FLm1k","title":"README","infoText":"bvfn cghmv.  cghmv. hgmvjm vb b","commands":"@xxx := ffff\n","comments":{"status":"ok","plugin":"edit-variables","pluginLastOpened":"edit-variables","infoTextTitle":"Document Info","toc":{"collapsed":false},"tor":{"collapsed":false}},"version":1,"updatedAt":"2026-07-14T11:26:16.628Z"}} -->
+<!-- {"achilles-ide-document":{"id":"L2dpdFRlc3QvUkVBRE1FLm1k","title":"README","infoText":"bvfn cghmv.  cghmv. hgmvjm vb b","commands":"@xxx := ffff\n","comments":{"status":"ok","plugin":"edit-variables","pluginLastOpened":"edit-variables","infoTextTitle":"Document Info","toc":{"collapsed":false},"tor":{"collapsed":false}},"version":1,"updatedAt":"2026-07-14T11:33:58.685Z"}} -->
 ## Table of Contents
 - [Chapter 1: New Chapter](#chapter-chapter-1595c710-41f2-4426-810f-aedbfc1bc808)
 - [Chapter 2: New Chapter](#chapter-chapter-c931fc4a-74ed-4ede-8846-0423bae8ed1a)
@@ -31,7 +31,10 @@ test paragr
 <a id="chapter-chapter-c931fc4a-74ed-4ede-8846-0423bae8ed1a"></a>
 ## New Chapter
 <!-- {"achilles-ide-paragraph":{"id":"paragraph-f95dae79-0861-4762-a4c6-c927ed5570a2","type":"markdown","commands":"@media_audio_631e4f attach id 0df940dbc205918477c247a700c03a647b155590bac4a0b4 name \"Wildfire - Jessie Villa.mp3\" volume 50 duration 190.75 loop true start 0.3 end 190.75\n@media_video_e8d000 attach id d7c73eb1b4653f7fa992898217e2351b024593f09fb79ca4 name \"Intro 2.mp4\" volume 100 duration 8.042667 loop false start 0.1 end 8.042667\n@media_image_c39241 attach id 6b02166941b9dac7ca5de3332734328474ff892ddce1b937 name ikr2TWl97soOglNDIaZU--0--e2R46.jpg width 768 height 1344 size 125215\n","title":"Paragraph 1"}} -->
-knz vn
+
+
+<!-- {"achilles-ide-paragraph":{"id":"paragraph-3243ebe2-8f92-43d1-9c8a-3372de8116ff","type":"markdown","commands":"@media_audio_7fbfae attach id 95dabf0a1e048ca06b202e6367c50058ee1819961e0a6455 name \"Wildfire - Jessie Villa.mp3\" volume 50 duration 190.75 loop false start 0.1 end 190.75\n@media_video_03d5a6 attach id ef34fe6d258406fecdd6f55630e4a1d5b770f819515fcd60 name \"Intro 2.mp4\" volume 100 duration 8.042667 loop false start 0.1 end 8.042667\n@media_image_ad738c attach id cf62c9ab8d548b9912103131bfb7571e362f139e54cb7ce4 name \"ChatGPT Image Jul 3, 2026, 05_11_31 PM.png\" width 1024 height 1536 size 2506844\n","title":"Paragraph 2"}} -->
+A paragraph is a distinct section of writing that focuses on a single idea. It is the fundamental building block of all writing, whether you are drafting a document, writing an email, or building a website.A paragraph is a distinct section of writing that focuses on a single idea. It is the fundamental building block of all writing, whether you are drafting a document, writing an email, or building a website.A paragraph is a distinct section of writing that focuses on a single idea. It is the fundamental building block of all writing, whether you are drafting a document, writing an email, or building a website.
 
 
 <!-- {"achilles-ide-chapter":{"id":"chapter-803fc17e-76f3-4248-bd41-e47a73eb6c70","title":"New Chapter","anchorId":"chapter-chapter-803fc17e-76f3-4248-bd41-e47a73eb6c70"}} -->
