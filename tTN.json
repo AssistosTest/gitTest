@@ -4,7 +4,7 @@
     {
       "name": "file-exp",
       "type": "pages",
-      "presenterClassName": "FileExp"
+      "presenterClassName": "FileExp2"
     },
     {
       "name": "file-editor",
