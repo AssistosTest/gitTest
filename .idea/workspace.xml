@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9838451-cfa6-4a93-b2ad-e89eb759e81e" name="Changes" comment="refresh room list on meeting creation and external disconnects">
+      <change beforePath="$PROJECT_DIR$/../../ploinky/node_modules/achillesAgentLib" beforeDir="false" afterPath="$PROJECT_DIR$/../../ploinky/node_modules/achillesAgentLib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ploinky/tests/unit/guestAuthRoutes.test.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../../ploinky/tests/unit/guestAuthRoutes.test.mjs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="156" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0720747879150037" />
+      <entry key="MS500" value="2.9728534911607976" />
+      <entry key="S2" value="5.980795598419689" />
+      <entry key="S5" value="7.097341282680942" />
+      <entry key="S10" value="7.531000158669942" />
+      <entry key="S30" value="7.839552265935568" />
+      <entry key="S60" value="7.924245956291674" />
+      <entry key="M2" value="8.275575878767713" />
+      <entry key="M5" value="11.790320634874181" />
+      <entry key="M10" value="16.766212513797704" />
+      <entry key="M15" value="19.894191711949635" />
+      <entry key="M30" value="26.362857365750656" />
+      <entry key="H1" value="34.52723315116892" />
+      <entry key="H2" value="42.12686276913801" />
+      <entry key="H4" value="48.82194462215483" />
+      <entry key="D1" value="70.98200567598657" />
+      <entry key="W1" value="81.75644219475652" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0131246309093218" />
+      <entry key="MS500" value="2.9393357545039405" />
+      <entry key="S2" value="5.964514125916172" />
+      <entry key="S5" value="7.089674812838071" />
+      <entry key="S10" value="7.526943664181616" />
+      <entry key="S30" value="7.838147230334471" />
+      <entry key="S60" value="7.923536259720158" />
+      <entry key="M2" value="8.275208200430983" />
+      <entry key="M5" value="11.79012319887108" />
+      <entry key="M10" value="16.76607818258916" />
+      <entry key="M15" value="19.89408735995453" />
+      <entry key="M30" value="26.362790280532515" />
+      <entry key="H1" value="34.52719040366084" />
+      <entry key="H2" value="42.12683713809695" />
+      <entry key="H4" value="48.821929894331966" />
+      <entry key="D1" value="70.9820021056554" />
+      <entry key="W1" value="81.7564416060391" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FUrSU7uZUsoBdlYmxklLQJNc4H" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9838451-cfa6-4a93-b2ad-e89eb759e81e" name="Changes" comment="" />
+      <created>1782140488369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782140488369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refresh room list on meeting creation and external disconnects" />
+    <option name="LAST_COMMIT_MESSAGE" value="refresh room list on meeting creation and external disconnects" />
+  </component>
+</project>
