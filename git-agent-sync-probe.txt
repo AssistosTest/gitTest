@@ -18,7 +18,7 @@ Baseline line 17
 Baseline line 18
 Baseline line 19
 Baseline line 20
-Baseline line 21
+Remote conflicting edit
 Baseline line 22
 Baseline line 23
 Baseline line 24
